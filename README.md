@@ -1,5 +1,12 @@
 # Agni Rakshak – Autonomous Forest Fire Detection Rover
 
+<img width="864" height="1227" alt="rover4" src="https://github.com/user-attachments/assets/9b52a62b-4195-4946-a5be-0d84fec0bf07" />
+<img width="1280" height="960" alt="rover3" src="https://github.com/user-attachments/assets/ce248d96-c73d-4595-b5d4-383d565656c8" />
+<img width="1280" height="960" alt="rover2" src="https://github.com/user-attachments/assets/cb9b0723-fb8d-4383-baeb-2fe9ae1b83aa" />
+<img width="960" height="1280" alt="roverimage" src="https://github.com/user-attachments/assets/f0a3936d-7b98-4781-94af-2df4bc1b64a1" />
+
+
+
 ## Overview
 
 Agni Rakshak is an autonomous forest fire detection and response rover developed to support early wildfire identification and mitigation. The system combines computer vision, embedded systems, robotics, and IoT technologies to detect fire in real time, navigate autonomously, avoid obstacles, and communicate with external systems.
