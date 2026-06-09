@@ -1,0 +1,11 @@
+[LOGGER] Logging to logs/run_195.log
+[INFO] Connected to ESP32 at 192.168.4.1:3333
+Traceback (most recent call last):
+  File "C:\Users\ashis\OneDrive\Desktop\prototype_3\main.py", line 51, in <module>
+    main()
+  File "C:\Users\ashis\OneDrive\Desktop\prototype_3\main.py", line 25, in main
+    rover = FireRoverDecision(esp32_connection=esp, camera_source=0)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ashis\OneDrive\Desktop\prototype_3\decisions.py", line 33, in __init__
+    raise RuntimeError("Could not open camera")
+RuntimeError: Could not open camera

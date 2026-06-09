@@ -1,0 +1,95 @@
+[LOGGER] Logging to logs/run_30.log
+[INFO] Connected to ESP32 at 192.168.4.1:3333
+[INFO] Starting Fire Rover Decision System
+Press Ctrl+C to terminate manually
+
+[INFO] Starting Fire Rover Decision System
+Press Ctrl+C or 'q' in the video window to terminate
+
+[DEBUG] Fire aligned
+[DEBUG] Fire's bounding box reached the bottom → STOPPING
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Fire aligned
+[DEBUG] Fire's bounding box reached the bottom → STOPPING
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[DEBUG] Pump OFF: Fire not at the bottom yet or no fire detected
+
+[INFO] Manual termination detected
+[INFO] Shutting down rover safely...
+[INFO] ESP32 disconnected successfully
+[INFO] System shutdown complete

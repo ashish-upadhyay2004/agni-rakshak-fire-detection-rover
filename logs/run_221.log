@@ -1,0 +1,2 @@
+[LOGGER] Logging to logs/run_221.log
+[ERROR] Failed to connect to ESP32: [WinError 10051] A socket operation was attempted to an unreachable network

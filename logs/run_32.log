@@ -1,0 +1,25 @@
+[LOGGER] Logging to logs/run_32.log
+[INFO] Connected to ESP32 at 192.168.4.1:3333
+[INFO] Starting Fire Rover Decision System
+Press Ctrl+C to terminate manually
+
+[INFO] Starting Fire Rover Decision System
+Press Ctrl+C or 'q' in the video window to terminate
+
+[DEBUG] Fire aligned
+[DEBUG] Fire's bounding box reached the bottom → STOPPING
+[DEBUG] Pump ON: Fire reached the bottom of the frame
+[INFO] Shutting down rover safely...
+Traceback (most recent call last):
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\main.py", line 51, in <module>
+    main()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\main.py", line 33, in main
+    rover.run()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\decisions.py", line 287, in run
+    self.extinguish_fire()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\decisions.py", line 187, in extinguish_fire
+    self.oscillate_nozzle()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\decisions.py", line 201, in oscillate_nozzle
+    self.servo.set_water_angle(self.nozzle_angle + 10)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ServoClient' object has no attribute 'set_water_angle'. Did you mean: 'set_water_us'?

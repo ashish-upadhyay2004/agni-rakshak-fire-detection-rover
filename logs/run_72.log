@@ -1,0 +1,336 @@
+[LOGGER] Logging to logs/run_72.log
+[INFO] Connected to ESP32 at 192.168.4.1:3333
+[INFO] Starting Fire Rover Decision System
+Press Ctrl+C to terminate manually
+
+[INFO] Starting Fire Rover Decision System
+Press Ctrl+C or 'q' in the video window to terminate
+
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nOK CAMERA ANGLE'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[ERROR] Failed to read IR status: timed out
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[ERROR] Failed to read IR status: ESP32 not connected
+[INFO] Shutting down rover safely...
+Traceback (most recent call last):
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\decisions.py", line 244, in run
+    self.search_fire()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\decisions.py", line 114, in search_fire
+    self.servo.set_camera_us(self.camera_pos)
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\actuators\servo_client.py", line 26, in set_camera_us
+    return self.esp32.send_command(f"CAMERA ANGLE {microseconds}")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\esp32_connection.py", line 58, in send_command
+[ERROR] Failed to read IR status: ESP32 not connected
+    response = self.socket.recv(1024).decode().strip()
+               ^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\main.py", line 51, in <module>
+    main()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\main.py", line 33, in main
+    rover.run()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\decisions.py", line 273, in run
+    self.shutdown()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\decisions.py", line 79, in shutdown
+    self.movement.stop()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\actuators\movement_client.py", line 24, in stop
+    return self.esp32.send_command("STOP")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\esp32_connection.py", line 49, in send_command
+    raise RuntimeError("ESP32 not connected")
+RuntimeError: ESP32 not connected

@@ -1,0 +1,2 @@
+[LOGGER] Logging to logs/run_141.log
+[ERROR] Failed to connect to ESP32: [WinError 10053] An established connection was aborted by the software in your host machine

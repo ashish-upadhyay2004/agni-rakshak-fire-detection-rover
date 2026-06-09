@@ -1,0 +1,959 @@
+[LOGGER] Logging to logs/run_176.log
+[INFO] Connected to ESP32 at 192.168.4.1:3333
+[INFO] Starting Fire Rover Decision System
+Press Ctrl+C to terminate manually
+
+[INFO] Starting Fire Rover Decision System
+Press Ctrl+C or 'q' in the video window to terminate
+
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nOK CAMERA ANGLE'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0\r\nOK CAMERA ANGLE'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE\r\nIR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: ''
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'OK STOP'
+[INFO] Shutting down rover safely...
+[DEBUG] Raw IR response from ESP32: 'OK CAMERA ANGLE'
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+[DEBUG] Raw IR response from ESP32: 'IR:0'
+[DEBUG] Parsed IR status: {'center': 0, 'left': 0, 'right': 0}
+Traceback (most recent call last):
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\main.py", line 51, in <module>
+    main()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\main.py", line 33, in main
+    rover.run()
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\decisions.py", line 234, in run
+    if self.align_fire(fire_center_x, frame_width, raw_fire):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Faizan\Desktop\esp32_rover\prototype_3\decisions.py", line 144, in align_fire
+    self.movement.turn_left(int(abs(image_error) * ROVER_GAIN))
+TypeError: MovementClient.turn_left() takes 1 positional argument but 2 were given

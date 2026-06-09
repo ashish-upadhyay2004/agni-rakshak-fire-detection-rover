@@ -1,0 +1,2 @@
+[LOGGER] Logging to logs/run_244.log
+[ERROR] Failed to connect to ESP32: timed out
